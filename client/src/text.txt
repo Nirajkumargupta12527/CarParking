@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Baloo+Bhaijaan+2&family=Croissant+One&family=Inspiration&family=Ms+Madi&family=Quicksand:wght@500&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Baloo+Bhaijaan+2&family=Croissant+One&family=Inspiration&family=Ms+Madi&family=Quicksand:wght@500&family=Roboto&display=swap');
+html {
+  scroll-behavior: smooth;
+}
+
+#fontfam{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#carouselfont{
+  font-family: Croissant One;
+}
+#footer{
+  background-image: url('./images/aditya-doula-QAblQjeqIX8-unsplash.jpg');
+  background-size: cover;
+  background-position: center; 
+}
+
+.homebanner{
+  background-image: url('./images/jordan-graff-9TBgvuPAe0Y-unsplash.jpg');
+  background-size: cover;
+    background-position: center;
+    height: 38rem;
+}
+.headerTags a:hover{
+    color: skyblue; 
+}
+.slotSearch:hover button{
+  cursor: pointer;
+}
+.cursorPtr:hover button{
+  cursor: pointer;
+}
+.cursorPtr:hover{
+  cursor: pointer;
+}
+
+
+
